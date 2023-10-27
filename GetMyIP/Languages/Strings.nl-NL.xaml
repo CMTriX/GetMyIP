@@ -7,7 +7,7 @@
 
         Language name here: Dutch
 
-        Translation contributed by: CMTriX
+        Translation contributed by: Tim
 
         Date: 24.10.2023
         ==================================================================================================================================
@@ -67,7 +67,7 @@
     <sys:String x:Key="External_Message">Bericht</sys:String>
     <sys:String x:Key="External_PostalCode">Postcode</sys:String>
     <sys:String x:Key="External_Provider">Provider (ISP)</sys:String>
-    <sys:String x:Key="External_State">Staat</sys:String>
+    <sys:String x:Key="External_State">Regio</sys:String>
     <sys:String x:Key="External_Status">Status</sys:String>
     <sys:String x:Key="External_TimeZone">Tijdszone</sys:String>
     <sys:String x:Key="External_UTCOffset">Offset van UTC</sys:String>
@@ -161,7 +161,7 @@
     <sys:String x:Key="SettingsItem_ShowInternalIPv4">Toon intern IPv4 adres</sys:String>
     <sys:String x:Key="SettingsItem_ShowInternalIPv6">TOon intern IPv6 adres</sys:String>
     <sys:String x:Key="SettingsItem_ShowISP">Toon provider (ISP) naam</sys:String>
-    <sys:String x:Key="SettingsItem_ShowState">Toon staat</sys:String>
+    <sys:String x:Key="SettingsItem_ShowState">Toon regio</sys:String>
     <sys:String x:Key="SettingsItem_ShowTimeZone">Toon tijdszone</sys:String>
     <sys:String x:Key="SettingsItem_ShowUTCOffset">Toon offset van UTC (GMT)</sys:String>
     <sys:String x:Key="SettingsItem_StartCentered">Start programma in het midden van het scherm</sys:String>
